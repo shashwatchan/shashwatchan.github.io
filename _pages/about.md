@@ -22,4 +22,4 @@ Hi! I'm Shashwat, a final year undergraduate at the National University of Singa
 
 Previously, I was doing theoretical cs research and was fortunate to have been advised by [Yi-Jun Chang](https://sites.google.com/a/umich.edu/yi-jun-chang/) on distributed graph algorithms. I have also spent my summers interning in quantitative trading roles at Jump Trading and Optiver.
 
-Even earlier, I used to do [competitive programming](https://stats.ioinformatics.org/people/6832). 
+Even earlier, I used to do <a href="https://stats.ioinformatics.org/people/6832">competitive programming</a>.
