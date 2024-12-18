@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finished my summer internship at <a href="https://www.jumptrading.com">Jump Trading</a>. 
+Finished my summer internship at <a href="https://www.jumptrading.com">Jump Trading</a>.
